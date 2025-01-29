@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Ruslan. I have a small company "Hustle Co."; My co. and I ready to start not a diff project with a mentor😊.
-- 🎁 My CF profile: _DRVGON_
+- 🎁 My CF profile: "_DRVGON_"
 - 👀 I’m interested in Computer science with a great interest in algorithms for Olympiads
 - 🌱 I’m currently learning CS, C++, 
 - 💞️ I’m looking to collaborate on interesting projects with interested people.
